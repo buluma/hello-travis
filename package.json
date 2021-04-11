@@ -1,0 +1,12 @@
+{
+	"name": "node-travis",
+	"version": "0.1.0",
+	"devDependencies": {
+		"grunt": "^1.3.0",
+		"grunt-cli": "^1.4.2",
+		"grunt-contrib-jshint": "^3.0.0"
+	},
+	"scripts": {
+		"test": "grunt --verbose"
+	}
+}
